@@ -4,8 +4,8 @@ function Mail(subj, msg) {
   }
   
   // Type your code below this line!
-  
-  const newMail = new Mail(  )
+  // En la IDE, se recomienda usar "let" en vez de "cons"
+ let newMail = new Mail("Hello", "World" )
   
   // Type your code above this line!
   
